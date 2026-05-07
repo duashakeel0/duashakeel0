@@ -1,16 +1,56 @@
-## Hi there 👋
+Hi 👋 I'm Dua Shakeel
 
-<!--
-**duashakeel0/duashakeel0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science Undergraduate at BNU
 
-Here are some ideas to get you started:
+Passionate about:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Full Stack Development
+* UI/UX Design
+* Software Engineering
+* APIs & Databases
+
+## 🛠 Tech Stack
+
+### Languages
+
+* C++
+* JavaScript
+* C#
+
+### Frontend
+
+* HTML
+* CSS
+* React
+
+### Backend
+
+* .NET
+* ASP.NET
+* Web APIs
+
+### Databases
+
+* MySQL
+* MongoDB
+
+### Tools & Design
+
+* Figma
+* WordPress
+* Git/GitHub
+
+---
+
+## 🚀 Current Goals
+
+* Building full stack projects
+* Improving DSA & problem solving
+* Learning advanced React and backend systems
+
+---
+
+## 📫 Connect With Me
+
+* LinkedIn
+* Email: [f2023-134@bnu.edu.pk](mailto:f2023-134@bnu.edu.pk)
