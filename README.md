@@ -10,5 +10,5 @@ Final-year Computer Science student at Beaconhouse National University, building
 
 **Recent work:**
 - 🎓 [CampusHub](https://github.com/duashakeel0/-arbisoft-internship) — full-stack attendance management system with a multi-agent AI layer (MCP server, agent delegation, validation guardrails)
-- ⚙️ [DevOps Cloud-Native Platform] — three-tier app on Kubernetes with self-healing, autoscaling, and CI/CD
+- ⚙️ [DevOps Cloud-Native Platform](https://github.com/duashakeel0/devops-cloud-native-platform) — three-tier app on Kubernetes with self-healing, autoscaling, and CI/CD
 - 🤖 [Agentic Web QA Tester](https://github.com/duashakeel0/Agentic-Web-QA-tester) — AI agent that reads a ticket, drives a real browser through a workflow, and verifies the result against stored assertions
