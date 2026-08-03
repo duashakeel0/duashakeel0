@@ -1,56 +1,14 @@
-Hi 👋 I'm Dua Shakeel
+### Hi, I'm Dua 👋
 
-Computer Science Undergraduate at BNU
+Final-year Computer Science student at Beaconhouse National University, building full-stack applications, cloud-native deployments, and interfaces built to hold up under real use.
 
-Passionate about:
+- 🔭 Currently working on full-stack systems with real authentication, real data, and multi-agent AI architecture
+- 💻 Backend: Django/DRF, C#/.NET, REST APIs · Frontend: React/TypeScript
+- 🐳 Cloud & DevOps: Docker, Kubernetes, GitHub Actions, CI/CD
+- 🎓 Graduating soon — open to full-time roles and internships in software engineering
+- 📫 Reach me: [LinkedIn]([your-linkedin-url](https://www.linkedin.com/in/dua-shakeel-b588a9286/?lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3BzwGMoA8mSMCTCzKmnlIxAg%3D%3D)) · f2023-134@bnu.edu.pk
 
-* Full Stack Development
-* UI/UX Design
-* Software Engineering
-* APIs & Databases
-
-## 🛠 Tech Stack
-
-### Languages
-
-* C++
-* JavaScript
-* C#
-
-### Frontend
-
-* HTML
-* CSS
-* React
-
-### Backend
-
-* .NET
-* ASP.NET
-* Web APIs
-
-### Databases
-
-* MySQL
-* MongoDB
-
-### Tools & Design
-
-* Figma
-* WordPress
-* Git/GitHub
-
----
-
-## 🚀 Current Goals
-
-* Building full stack projects
-* Improving DSA & problem solving
-* Learning advanced React and backend systems
-
----
-
-## 📫 Connect With Me
-
-* LinkedIn
-* Email: [f2023-134@bnu.edu.pk](mailto:f2023-134@bnu.edu.pk)
+**Recent work:**
+- 🎓 [CampusHub] — full-stack attendance management system with a multi-agent AI layer (MCP server, agent delegation, validation guardrails)
+- ⚙️ [DevOps Cloud-Native Platform] — three-tier app on Kubernetes with self-healing, autoscaling, and CI/CD
+- Web QA Tester - full-stack QA tester focused on AI agents
